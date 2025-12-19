@@ -1,18 +1,15 @@
 # ASCEND2026
-ASCEND Repository maintained by TGC Eureka STEM Academy x Aeroo.space
+ASCEND Repository maintained by TGC Eureka STEM Academy.
 
-Ship approved and ready-to-use CubeSat code, Showcase Student works
+# ASCEND2026 Open-Source CubeSat Missions (TGC × AEROO)
 
-# ASCEND2026 – Open-Source CubeSat Missions (TGC × AEROO)
-
-This repo hosts ready to run CubeSat code, mission templates, and an open gallery of student projects from ASCEND 2026.
+This repo hosts ready to run CubeSat code, and an open gallery of student projects from ASCEND 2026.
 
 ## What’s inside
 - `examples/arduino` – firmware sketches for sensors/comms
 - `examples/python` – data parsing, viz, alerting
 - `kits/` – hardware setup & wiring diagrams
-- `docs/` – mission briefs, worksheets, rubrics
-- `submissions/` – student teams’ open projects
+- `submissions/` – ASCEND2026 student teams’ open projects
 
 ## Quick start
 1. Clone or fork the repo.
