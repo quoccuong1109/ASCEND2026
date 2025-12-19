@@ -1,5 +1,5 @@
 # ASCEND2026
-ASCEND Repository maintained by TGC Eureka STEM Academy.
+ASCEND Repository maintained by TGC Eureka STEM Academy x Aeroo.space
 
 # ASCEND2026 Open-Source CubeSat Missions (TGC × AEROO)
 
